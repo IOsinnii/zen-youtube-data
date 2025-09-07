@@ -1,5 +1,6 @@
 # YouTube Lecture Data Processing Pipeline
 
+This is my hobbie-related code to facilitate a development and publishing of a website for one of my friends 
 A comprehensive Python-based data processing pipeline for cleaning and organizing YouTube lecture data for web catalogue database integration.
 
 ## Project Purpose
