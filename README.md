@@ -1,7 +1,7 @@
-# YouTube Lecture Data Processing Pipeline
+# Introduction
 
-This is my hobbie-related code to facilitate a development and publishing of a website for one of my friends 
-A comprehensive Python-based data processing pipeline for cleaning and organizing YouTube lecture data for web catalogue database integration.
+A comprehensive Python-based data processing pipeline for cleaning and organizing YouTube lectures data for web catalogue database integration.
+Input json file was obtained from Youtube through automatized API agent Apify and contains a given channel video metadata such as date, title, description etc.
 
 ## Project Purpose
 
@@ -15,7 +15,7 @@ This project transforms raw YouTube scraper data into a clean, structured datase
 ## Project Structure
 
 ```
-zen-youtube-data/
+python-json-transformation/
 ├── input/                           # Source data files
 │   ├── dataset_youtube-scraper-task_2025-04-26.json
 │   └── dataset_youtube-scraper-task_2025-04-26_subset.json
@@ -252,7 +252,7 @@ Each stage includes validation and reporting:
 
 ## License
 
-This project is developed for academic/research purposes. Please ensure compliance with YouTube's Terms of Service when processing scraped data.
+This project is developed for hobbie purposes. Please ensure compliance with YouTube's Terms of Service when processing scraped data.
 
 ---
 
